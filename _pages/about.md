@@ -116,7 +116,7 @@ h1:first-of-type {
 <h1>主要项目</h1>
 <div class="content-block">
   <!-- <h3><strong>与 NVIDIA 合作开源了 kv cache offloading 框架：<a href="https://github.com/taco-project/FlexKV" target="_blank" rel="noopener noreferrer">FlexKV</a></strong></h3> -->
-  <h3><strong>与 NVIDIA 合作开源了 kv cache offloading 框架：FlexKV</a></strong></h3>
+  <h3><strong>与 NVIDIA 合作开源了 kv cache offloading 框架：FlexKV</strong></h3>
   <div class="indented-content">
     背景：<br>
     <div class="bullet-point">
