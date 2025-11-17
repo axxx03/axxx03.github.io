@@ -59,7 +59,7 @@ redirect_from:
 </div>
 
 <div class="content-block">
-  <h3><strong>内部推理框架 TACO-LLM 上 PD 分离特性的开发</strong></h3>
+  <h3><strong>内部推理框架上 PD 分离特性的开发</strong></h3>
   <div class="indented-content">
     背景：<br>
     <div class="bullet-point">
